@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: #393646;
+}
+
+.center {
+    margin-left: 0cm;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.lirenk {
+    color: #E5E5CB;
+    list-style: inside;
+}
+
+.hrenk {
+    color: #C060A1;
+}
